@@ -1,0 +1,23 @@
+[
+  {
+    "name": "HostelHub",
+    "desc": "A hostel room allocation management web application.",
+    "image": "hostelhub",
+    "category": "webapp",
+    "status": "completed"
+  },
+  {
+    "name": "CitySync",
+    "desc": "A municipal corporation complaint management platform.",
+    "image": "citysync",
+    "category": "webapp",
+    "status": "completed"
+  },
+  {
+    "name": "MeterGo",
+    "desc": "A cab service provider platform based on RTO fare.",
+    "image": "metergo",
+    "category": "webapp",
+    "status": "ongoing"
+  }
+]
